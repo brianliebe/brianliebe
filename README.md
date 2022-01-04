@@ -26,8 +26,9 @@ I'm a software engineer living in New York City with a BS in Computer Science fr
 * CS480F - High Performance Computing ([repo](https://github.com/brianliebe/CS480F))
 * CS480Z - z/VM Virtualization ([repo](https://github.com/brianliebe/CS480Z))
 
-### Other Projects
+### Projects
 
+* [Call of Duty Vanguard Scraper](https://github.com/brianliebe/vanguard) - Program that processes data from professional Call of Duty Vanguard games (Python) [PRIVATE]
 * [Discord Image Bot](https://github.com/brianliebe/discord-bot) - Discord Bot that uses Google Vision to detect objects in an image (Python)
 * [Blackbird](https://github.com/brianliebe/blackbird) - Website for processing professional Call of Duty matches (JavaScript/HTML)
 * [CoD Minimap Tracker](https://github.com/brianliebe/cod-minimap-tracker) - Parse footage from professional Call of Duty games (Python) [PRIVATE]
