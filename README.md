@@ -9,7 +9,7 @@ I'm a software engineer living in New York City with a BS in Computer Science fr
 * **Software Engineer I** - Memorial Sloan Kettering Cancer Center *(Dec 2021 - Present)*
 * **Technical Implementation Specialist** - N-Tier Financial Services *(Mar 2021 - Jul 2021)*
 * **Junior Delivery Engineer** - Fidessa/ION Group *(Jan 2019 - Mar 2021)*
-* **Software Engineer** - KSE Esports Management LLC *(Oct 2020 - Present) (part-time)*
+* **Software Engineer** - KSE Esports Management LLC *(Oct 2020 - Dec 2021) (part-time)*
 * **Software Engineering Intern** - Universal Instruments *(Jun 2017 - Aug 2017)*
 * **Course Assistant** - Binghamton University CS Department *(Aug 2017 - Dec 2018)*
 
