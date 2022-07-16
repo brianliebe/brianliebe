@@ -9,7 +9,7 @@ I'm a software engineer living in New York City with a BS in Computer Science fr
 * **Software Engineer I** - Memorial Sloan Kettering Cancer Center *(Dec 2021 - Present)*
 * **Technical Implementation Specialist** - N-Tier Financial Services *(Mar 2021 - Jul 2021)*
 * **Junior Delivery Engineer** - Fidessa/ION Group *(Jan 2019 - Mar 2021)*
-* **Software Engineer** - KSE Esports Management LLC *(Oct 2020 - Dec 2021) (part-time)*
+* **Software Engineer** - KSE Esports Management LLC *(Oct 2020 - Dec 2021) (freelance)*
 * **Software Engineering Intern** - Universal Instruments *(Jun 2017 - Aug 2017)*
 * **Course Assistant** - Binghamton University CS Department *(Aug 2017 - Dec 2018)*
 
@@ -30,9 +30,9 @@ I'm a software engineer living in New York City with a BS in Computer Science fr
 
 ### Projects 🗒
 
-* [Call of Duty Vanguard Scraper](https://github.com/brianliebe/vanguard) * - Program that processes data from professional Call of Duty Vanguard games (Python)
-* [Discord Wordle Bot](https://github.com/brianliebe/wordle-bot) - Discord Bot that tracks Wordle scores and mantains a server-wide leaderboard (Python)
-* [Discord Image Bot](https://github.com/brianliebe/discord-bot) - Discord Bot that uses Google Vision to detect objects in an image (Python)
+* [CoD Vanguard Demo Scraper](https://github.com/brianliebe/vanguard) * - Generates statistical data from professional Call of Duty Vanguard games (Python)
+* [Wordle Bot](https://github.com/brianliebe/wordle-bot) - Discord Bot that tracks Wordle scores and mantains a server-wide leaderboard (Python)
+* [Image Recognition Bot](https://github.com/brianliebe/discord-bot) - Discord Bot that uses Google Vision to detect objects in an image (Python)
 * [Blackbird](https://github.com/brianliebe/blackbird) - Website for processing professional Call of Duty matches (JavaScript/HTML)
 * [CoD Minimap Tracker](https://github.com/brianliebe/cod-minimap-tracker) * - Parse footage from professional Call of Duty games (Python)
 * [brianliebe.me](https://github.com/brianliebe/brianliebe.github.io) - Personal website (HTML)
@@ -45,4 +45,3 @@ I'm a software engineer living in New York City with a BS in Computer Science fr
 
 * Email: [brianjliebe@gmail.com](mailto:brianjliebe@gmail.com)
 * LinkedIn: [@brianliebe](https://www.linkedin.com/in/brianliebe/)
-* Twitter: [@brianjliebe](https://twitter.com/brianjliebe)
