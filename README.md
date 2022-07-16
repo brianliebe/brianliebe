@@ -46,4 +46,3 @@ I'm a software engineer living in New York City with a BS in Computer Science fr
 * Email: [brianjliebe@gmail.com](mailto:brianjliebe@gmail.com)
 * LinkedIn: [@brianliebe](https://www.linkedin.com/in/brianliebe/)
 * Twitter: [@brianjliebe](https://twitter.com/brianjliebe)
-* Resume: [View](https://raw.githubusercontent.com/brianliebe/brianliebe.github.io/master/files/resume.pdf)
