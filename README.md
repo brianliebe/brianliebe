@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer living in New York City with a BS in Computer Science from Binghamton University.
-
-
+I'm a software engineer living in New York City. I graduated from Binghamton University with a BS in Computer Science.
 
 ### Work Experience 👨🏻‍💻
 
@@ -43,5 +41,5 @@ I'm a software engineer living in New York City with a BS in Computer Science fr
 
 ### Contact Me ✉️
 
-* Email: [brianjliebe@gmail.com](mailto:brianjliebe@gmail.com)
+* Email: brianjliebe@gmail.com](mailto:brianjliebe@gmail.com)
 * LinkedIn: [@brianliebe](https://www.linkedin.com/in/brianliebe/)
