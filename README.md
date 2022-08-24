@@ -41,5 +41,5 @@ I'm a software engineer living in New York City. I graduated from Binghamton Uni
 
 ### Contact Me ✉️
 
-* Email: brianjliebe@gmail.com](mailto:brianjliebe@gmail.com)
+* Email: [brianjliebe@gmail.com](mailto:brianjliebe@gmail.com)
 * LinkedIn: [@brianliebe](https://www.linkedin.com/in/brianliebe/)
