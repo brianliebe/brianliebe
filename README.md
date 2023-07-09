@@ -18,7 +18,7 @@ I'm a software engineer living in New York City. I graduated from Binghamton Uni
 * [Image Recognition Bot](https://github.com/brianliebe/discord-bot) - Discord Bot that uses Google Vision to detect objects in an image (Python)
 * [Blackbird](https://github.com/brianliebe/blackbird) - Website for processing professional Call of Duty matches (JavaScript/HTML)
 * [CoD Minimap Tracker](https://github.com/brianliebe/cod-minimap-tracker) * - Parse footage from professional Call of Duty games (Python)
-* [brianliebe.me](https://github.com/brianliebe/brianliebe.github.io) - Personal website (HTML)
+* [brianliebe.com](https://github.com/brianliebe/brianliebe.com) - Personal website (HTML)
 * [CoDStats](https://github.com/brianliebe/codstats) - C# apps to track in-progress Call of Duty games (C#)
 * [Rainmeter Skins](https://github.com/brianliebe/rainmeter-circle-meters) - Custom skins for Rainmeter to track system resource usage (Rainmeter)
 
@@ -41,5 +41,5 @@ I'm a software engineer living in New York City. I graduated from Binghamton Uni
 
 ### Contact Me ✉️
 
-* Email: [brianjliebe@gmail.com](mailto:brianjliebe@gmail.com)
+* Email: brianjliebe /at/ gmail.com
 * LinkedIn: [@brianliebe](https://www.linkedin.com/in/brianliebe/)
