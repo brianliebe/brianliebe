@@ -13,12 +13,12 @@ I'm a software engineer living in New York City. I graduated from Binghamton Uni
 
 ### Projects 🗒
 
-* [CoD Vanguard Demo Scraper](https://github.com/brianliebe/vanguard) * - Generates statistical data from professional Call of Duty Vanguard games (Python)
+* [brianliebe.com](https://github.com/brianliebe/brianliebe.com) - Personal website (React.js)
 * [Wordle Bot](https://github.com/brianliebe/wordle-bot) - Discord Bot that tracks Wordle scores and mantains a server-wide leaderboard (Python)
 * [Image Recognition Bot](https://github.com/brianliebe/discord-bot) - Discord Bot that uses Google Vision to detect objects in an image (Python)
+* [CoD Vanguard Demo Scraper](https://github.com/brianliebe/vanguard) * - Generates statistical data from professional Call of Duty Vanguard games (Python)
 * [Blackbird](https://github.com/brianliebe/blackbird) - Website for processing professional Call of Duty matches (JavaScript/HTML)
 * [CoD Minimap Tracker](https://github.com/brianliebe/cod-minimap-tracker) * - Parse footage from professional Call of Duty games (Python)
-* [brianliebe.com](https://github.com/brianliebe/brianliebe.com) - Personal website (HTML)
 * [CoDStats](https://github.com/brianliebe/codstats) - C# apps to track in-progress Call of Duty games (C#)
 * [Rainmeter Skins](https://github.com/brianliebe/rainmeter-circle-meters) - Custom skins for Rainmeter to track system resource usage (Rainmeter)
 
