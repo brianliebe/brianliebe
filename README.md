@@ -14,7 +14,7 @@ I'm a software engineer living in New York City. I graduated from Binghamton Uni
 ### Projects 🗒
 
 * [brianliebe.com](https://github.com/brianliebe/brianliebe.com) - Personal website (React.js)
-* [Wordle Bot](https://github.com/brianliebe/wordle-bot) - Discord Bot that tracks Wordle scores and mantains a server-wide leaderboard (Python)
+* [NYT Games Discord Bot](https://github.com/brianliebe/nyt-games-bot) - Discord Bot that tracks Wordle & Connections scores and mantains a server-wide leaderboard (Python)
 * [Image Recognition Bot](https://github.com/brianliebe/discord-bot) - Discord Bot that uses Google Vision to detect objects in an image (Python)
 * [CoD Vanguard Demo Scraper](https://github.com/brianliebe/vanguard) * - Generates statistical data from professional Call of Duty Vanguard games (Python)
 * [Blackbird](https://github.com/brianliebe/blackbird) - Website for processing professional Call of Duty matches (JavaScript/HTML)
