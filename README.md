@@ -4,7 +4,8 @@ I'm a software engineer living in New York City. I graduated from Binghamton Uni
 
 ### Work Experience 👨🏻‍💻
 
-* **Software Engineer I** - Memorial Sloan Kettering Cancer Center *(Dec 2021 - Present)*
+* **Advanced Software Developer** - Memorial Sloan Kettering Cancer Center *(Apr 2024 - Present)*
+* **Software Engineer I** - Memorial Sloan Kettering Cancer Center *(Dec 2021 - Apr 2024)*
 * **Technical Implementation Specialist** - N-Tier Financial Services *(Mar 2021 - Jul 2021)*
 * **Junior Delivery Engineer** - Fidessa/ION Group *(Jan 2019 - Mar 2021)*
 * **Software Engineer** - KSE Esports Management LLC *(Oct 2020 - Dec 2021) (freelance)*
@@ -41,5 +42,4 @@ I'm a software engineer living in New York City. I graduated from Binghamton Uni
 
 ### Contact Me ✉️
 
-* Email: brianjliebe /at/ gmail.com
 * LinkedIn: [@brianliebe](https://www.linkedin.com/in/brianliebe/)
